@@ -1,0 +1,6 @@
+
+1.This is a file2.txt
+Created to do practical on BLOB
+
+2. Content updated and changed
+3. HELLO FROM Ishu
